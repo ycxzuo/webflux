@@ -1,0 +1,9 @@
+
+Osquid:S1602B",Remove useless curly braces around statement(ÏÎß¡üÿÿÿÿ8­·şœ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(È—Éú8­·şœ-
+Osquid:S1602 ",Remove useless curly braces around statement(æ›£Şûÿÿÿÿ8­·şœ-
+Osquid:S1612 ",Replace this lambda with a method reference.(æ›£Şûÿÿÿÿ8­·şœ-
+Osquid:S1602",Remove useless curly braces around statement(æ›£Şûÿÿÿÿ8­·şœ-
+Jsquid:S1602",Remove useless curly braces around statement(¥ƒãË8­·şœ-
+Jsquid:S1602",Remove useless curly braces around statement(¥ƒãË8­·şœ-
