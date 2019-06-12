@@ -13,3 +13,5 @@ Ufunctional/src/main/java/com/yczuoxin/rxjava/demo/flowdemo/DockerXDemoSubscribe
 Tfunctional/src/main/java/com/yczuoxin/rxjava/demo/flowdemo/DockerXDemoPublisher.java,d\c\dc133e5cb6fe3f75be8fc63857edff663d8c8422
 †
 Vfunctional/src/main/java/com/yczuoxin/rxjava/demo/flowdemo/DockerXDemoApplication.java,c\4\c4a0c313cae60dfaac4891265b052b60869ae1ed
+‰
+Yfunctional/src/main/java/com/yczuoxin/rxjava/demo/flowdemo/DefaultLoopNativeDetector.java,b\0\b044be1e4a025d7a2f176cebf032d1f67214ded5
